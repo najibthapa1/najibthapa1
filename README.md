@@ -3,7 +3,7 @@
 
 
 ## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/im.najib.thapa) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/____nazib____) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:thapanajib@gmail.com)   [![linkedin](https://img.shields.io/badge/linkedin-D14836?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/najib-thapa-524015293) 
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/im.najib.thapa) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/____nazib____) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:thapanajib@gmail.com)   [![linkedin](https://img.shields.io/badge/Linkedin-D14836?logo=Linkedin&logoColor=blue)](https://www.linkedin.com/in/najib-thapa-524015293) 
 
 
 # 💻 Tech Stack:
