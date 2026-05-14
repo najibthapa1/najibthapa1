@@ -1,0 +1,71 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 180" width="900" height="180">
+  <style>
+    .base {
+      font-family: 'Courier New', monospace;
+      font-size: 18px;
+      font-weight: 900;
+      fill: #00ffb3;
+      white-space: pre;
+    }
+    .glitch1 {
+      animation: flicker1 2.5s infinite;
+    }
+    .glitch2 {
+      animation: flicker2 3.2s infinite;
+    }
+    .glitch3 {
+      animation: shift 1.8s infinite;
+    }
+    .glitch4 {
+      animation: pulse 2s infinite;
+    }
+    @keyframes flicker1 {
+      0%, 100% { opacity: 1; fill: #00ffb3; }
+      45% { opacity: 1; }
+      50% { opacity: 0.2; fill: #ff00aa; }
+      55% { opacity: 1; fill: #00ffb3; }
+    }
+    @keyframes flicker2 {
+      0%, 100% { opacity: 1; fill: #00ffb3; }
+      30% { opacity: 0.4; fill: #00ccff; }
+      35% { opacity: 1; fill: #00ffb3; }
+      70% { opacity: 0.6; }
+      75% { opacity: 1; }
+    }
+    @keyframes shift {
+      0%, 100% { transform: translateX(0); fill: #00ffb3; }
+      48% { transform: translateX(0); }
+      50% { transform: translateX(-3px); fill: #ff3366; }
+      52% { transform: translateX(3px); fill: #00ffb3; }
+      54% { transform: translateX(0); }
+    }
+    @keyframes pulse {
+      0%, 100% { fill: #00ffb3; opacity: 1; }
+      50% { fill: #aaffdd; opacity: 0.7; }
+    }
+    .bg {
+      fill: #000000;
+    }
+  </style>
+
+  <rect class="bg" width="100%" height="100%"/>
+
+  <!-- Static base lines -->
+  <text x="10" y="25" class="base">███╗   ██╗ █████╗      ██╗██╗██████╗     ████████╗██╗  ██╗ █████╗ ██████╗  █████╗</text>
+  <text x="10" y="48" class="base glitch1">████╗  ██║██╔══██╗     ██║██║██╔══██╗    ╚══██╔══╝██║  ██║██╔══██╗██╔══██╗██╔══██╗</text>
+  <text x="10" y="71" class="base">██╔██╗ ██║███████║     ██║██║██████╔╝       ██║   ███████║███████║██████╔╝███████║</text>
+  <text x="10" y="94" class="base glitch3">██║╚██╗██║██╔══██║██   ██║██║██╔══██╗       ██║   ██╔══██║██╔══██║██╔═══╝ ██╔══██║</text>
+  <text x="10" y="117" class="base">██║ ╚████║██║  ██║╚█████╔╝██║██████╔╝       ██║   ██║  ██║██║  ██║██║     ██║  ██║</text>
+  <text x="10" y="140" class="base glitch2">╚═╝  ╚═══╝╚═╝  ╚═╝ ╚════╝ ╚═╝╚═════╝        ╚═╝   ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝     ╚═╝  ╚═╝</text>
+
+  <!-- Floating glitch blocks -->
+  <text x="120" y="48" class="base glitch4">██</text>
+  <text x="450" y="94" class="base glitch1">▓▓</text>
+  <text x="700" y="71" class="base glitch3">██</text>
+  <text x="280" y="117" class="base glitch2">▒▒</text>
+
+  <!-- Subtitle -->
+  <text x="280" y="170" class="base" style="font-size:11px; fill:#00ffb3; opacity:0.6;">
+    [ BACKEND // SYSTEMS // DATA ] :: NEON CORE ENABLED
+  </text>
+</svg>
