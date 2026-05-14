@@ -128,25 +128,24 @@ current_work:
 
 ```diff
 + ┌──────────────────────────────────────────────────────────────────────────────┐
-+ │ [3] CONTRIBUTION MATRIX :: 12-MONTH ACTIVITY LOG                            │
++ │ [3] CONTRIBUTION MATRIX :: 30-DAY ACTIVITY TRACE                            │
 + ├──────────────────────────────────────────────────────────────────────────────┤
-! │ TIMELINE  ::  JAN ─ FEB ─ MAR ─ APR ─ MAY ─ JUN                             │
-! │              JUL ─ AUG ─ SEP ─ OCT ─ NOV ─ DEC                              │
-+ │ MODE      ::  CONTINUOUS COMMIT TRACE                                       │
++ │ MODE      ::  RECENT COMMIT TRACE                                           │
++ │ WINDOW    ::  LAST 30 DAYS                                                  │
++ │ AXIS      ::  X = DAYS   |   Y = CONTRIBUTIONS                              │
 + │ SCALE     ::  LOW ░░  MED ▒▒  HIGH ▓▓  PEAK ██                              │
 + └──────────────────────────────────────────────────────────────────────────────┘
 ```
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=najibthapa1&bg_color=000000&color=00ffb3&line=00ffb3&point=ffffff&area=true&hide_border=true&custom_title=NAJIB.SYS%20//%20ANNUAL%20CONTRIBUTION%20TRACE" width="95%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=najibthapa1&bg_color=000000&color=00ffb3&line=00ffb3&point=ffffff&area=true&hide_border=true&custom_title=NAJIB.SYS%20//%2030-DAY%20ACTIVITY%20TRACE" width="95%"/>
 
 </div>
 
 ```diff
-! Q1 :: JAN — MAR     |     Q2 :: APR — JUN     |     Q3 :: JUL — SEP     |     Q4 :: OCT — DEC
 + ──────────────────────────────────────────────────────────────────────────────
-! >> END OF CONTRIBUTION MATRIX
+! >> END OF ACTIVITY TRACE   ::   30-DAY WINDOW RENDERED OK
 ```
 
 ---
@@ -159,9 +158,7 @@ current_work:
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=najibthapa1&show_icons=true&include_all_commits=true&count_private=true&theme=chartreuse-dark&hide_border=true&bg_color=000000"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=najibthapa1&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=000000"/>
 
 <img height="170" src="https://streak-stats.demolab.com?user=najibthapa1&theme=chartreuse-dark&hide_border=true&background=000000"/>
 
@@ -171,29 +168,29 @@ current_work:
 
 ```diff
 + ┌──────────────────────────────────────────────────────────────────────────────┐
-+ │ SNAKE MODULE :: ACTIVITY TRACE (LIVE FEED)                                  │
++ │ 3D CONTRIBUTION MODULE :: NEON CITY RENDER                                  │
 + ├──────────────────────────────────────────────────────────────────────────────┤
-! │ FEED      ::  REALTIME COMMIT CONSUMPTION                                   │
-! │ DIRECTION ::  LEFT → RIGHT                                                  │
-+ │ MODE      ::  ANIMATED SVG                                                  │
-+ │ NODES     ::  CONTRIBUTION CELLS                                            │
+! │ MODE      ::  3D ISOMETRIC PROJECTION                                       │
+! │ THEME     ::  NEON CORE / DARK MODE                                         │
++ │ RENDER    ::  ANIMATED SVG TOWER GROWTH                                     │
++ │ NODES     ::  YEARLY CONTRIBUTION CELLS                                     │
 + └──────────────────────────────────────────────────────────────────────────────┘
 ```
 
 ```diff
-! [ START ]                                                              [ END ]
+! [ RENDER START ]                                                  [ RENDER END ]
 + ──────────────────────────────────────────────────────────────────────────────
 ```
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/najibthapa1/najibthapa1/output/snake.svg" width="100%" alt="ascii-output"/>
+<img src="./profile-3d-contrib/profile-green-animate.svg" alt="3D Contribution Graph" width="100%"/>
 
 </div>
 
 ```diff
 + ──────────────────────────────────────────────────────────────────────────────
-! >> SNAKE TRACE COMPLETE   ::   FRAMES RENDERED OK
+! >> 3D RENDER COMPLETE   ::   FRAMES OK
 ```
 
 ---
