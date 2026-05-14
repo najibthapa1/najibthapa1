@@ -80,7 +80,7 @@ discipline = BACKEND / SYSTEMS / DATA
 ```yaml
 [1] SYSTEM SUMMARY:
   name        : NAJIB THAPA
-  role        : NOT DEFINED
+  role        : BACKEND DEVELOPER
   location    : NEPAL
   status      : ONLINE
   speciality  :
@@ -134,23 +134,32 @@ current_work:
 
 ```diff
 + ┌──────────────────────────────────────────────────────────────────────────────┐
-+ │ [3] CONTRIBUTION MATRIX                                                     │
++ │ [3] CONTRIBUTION MATRIX :: 12-MONTH ACTIVITY LOG                            │
 + ├──────────────────────────────────────────────────────────────────────────────┤
-! │        SYSTEM CONTRIBUTIONS LOADING . . .                                   │
+! │ TIMELINE  ::  JAN ─ FEB ─ MAR ─ APR ─ MAY ─ JUN                             │
+! │              JUL ─ AUG ─ SEP ─ OCT ─ NOV ─ DEC                              │
++ │ MODE      ::  CONTINUOUS COMMIT TRACE                                       │
++ │ SCALE     ::  LOW ░░  MED ▒▒  HIGH ▓▓  PEAK ██                              │
 + └──────────────────────────────────────────────────────────────────────────────┘
 ```
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=najibthapa1&bg_color=000000&color=00ffb3&line=00ffb3&point=ffffff&area=true&hide_border=true" width="95%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=najibthapa1&bg_color=000000&color=00ffb3&line=00ffb3&point=ffffff&area=true&hide_border=true&custom_title=NAJIB.SYS%20//%20ANNUAL%20CONTRIBUTION%20TRACE" width="95%"/>
 
 </div>
+
+```diff
+! Q1 :: JAN — MAR     |     Q2 :: APR — JUN     |     Q3 :: JUL — SEP     |     Q4 :: OCT — DEC
++ ──────────────────────────────────────────────────────────────────────────────
+! >> END OF CONTRIBUTION MATRIX
+```
 
 ---
 
 ```diff
 + ┌──────────────────────────────────────────────────────────────────────────────┐
-+ │ [4] GITHUB STATS                                                            │
++ │ [4] GITHUB STATS :: SYSTEM DIAGNOSTICS                                      │
 + └──────────────────────────────────────────────────────────────────────────────┘
 ```
 
@@ -168,8 +177,18 @@ current_work:
 
 ```diff
 + ┌──────────────────────────────────────────────────────────────────────────────┐
-+ │ SNAKE MODULE :: ACTIVITY TRACE                                              │
++ │ SNAKE MODULE :: ACTIVITY TRACE (LIVE FEED)                                  │
++ ├──────────────────────────────────────────────────────────────────────────────┤
+! │ FEED      ::  REALTIME COMMIT CONSUMPTION                                   │
+! │ DIRECTION ::  LEFT → RIGHT                                                  │
++ │ MODE      ::  ANIMATED SVG                                                  │
++ │ NODES     ::  CONTRIBUTION CELLS                                            │
 + └──────────────────────────────────────────────────────────────────────────────┘
+```
+
+```diff
+! [ START ]                                                              [ END ]
++ ──────────────────────────────────────────────────────────────────────────────
 ```
 
 <div align="center">
@@ -177,6 +196,11 @@ current_work:
 <img src="https://raw.githubusercontent.com/najibthapa1/najibthapa1/output/snake.svg" width="100%" alt="ascii-output"/>
 
 </div>
+
+```diff
++ ──────────────────────────────────────────────────────────────────────────────
+! >> SNAKE TRACE COMPLETE   ::   FRAMES RENDERED OK
+```
 
 ---
 
